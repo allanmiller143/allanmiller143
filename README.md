@@ -1,9 +1,17 @@
 ### Olá, sou Allan Miller 👋
 <h3>Sobre mim</h3>
+<div style="display: space_around"> 
+   <div>
+      - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+      - 🎓 Estudando **Sistemas de informações** no <a href="link da sua faculdade">Universidade de Pernambuco</a>.
+      - 🌱 &nbsp; Aprendendo mais sobre **Python, Flutter, html/css, java**.
+   </div>
+   <div>
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+   </div>
+   
+</div>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Sistemas de informações** no <a href="link da sua faculdade">Universidade de Pernambuco</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Python, Flutter, html/css, java**.
 <br>
 <h2> Minhas habilidades </h2>
 <div style="display: inline_block">
@@ -21,7 +29,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:millerallan17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
 
 
