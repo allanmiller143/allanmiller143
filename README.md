@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 </div>
 
-[![allanmiller143](https://github-readme-stats.vercel.app/api?username=allanmiller1438&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![allanmiller143](https://github-readme-stats.vercel.app/api?username=allanmiller143&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![allanmiller143](https://github-readme-stats.vercel.app/api/top-langs/?username=allanmiller1438&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![allanmiller143](https://github-readme-stats.vercel.app/api/top-langs/?username=allanmiller143&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
