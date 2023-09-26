@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-### Olá, sou Allan Miller 👋
+Olá, sou Allan Miller 👋
 <h3>Sobre mim</h3>
 
 
 <div style="display: flex"> 
    <div style="display: inline_block">
       <p>- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
-      <p>- 🌱 &nbsp; Aprendendo mais sobre **Python, Flutter, html/css, java**. </p>
-      <p>- 🎓 Estudando **Sistemas de informações** na <a href="link da sua faculdade">Universidade de Pernambuco</a>.</p>
+      <p>- 🌱 &nbsp; Aprendendo mais sobre Python, Flutter, html/css, java. </p>
+      <p>- 🎓 Estudando Sistemas de informações na <a href="link da sua faculdade">Universidade de Pernambuco</a>.</p>
    </div>
 </div>
 
@@ -18,7 +18,7 @@
   <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Allan-Python" height="30" width="40" src="[https://www.w3schools. com/cpp/]https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
   ##
