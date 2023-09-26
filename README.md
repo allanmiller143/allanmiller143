@@ -1,14 +1,13 @@
 ### Olá, sou Allan Miller 👋
 <h3>Sobre mim</h3>
-<div style="display: space_around"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right">
+
+<div style="display: flex"> 
    <div style="display: inline_block">
       <p>- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
       <p>- 🌱 &nbsp; Aprendendo mais sobre **Python, Flutter, html/css, java**. </p>
       <p>- 🎓 Estudando **Sistemas de informações** no <a href="link da sua faculdade">Universidade de Pernambuco</a>.</p>
    </div>
-   <div>
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-   </div> 
 </div>
 
 <br>
