@@ -1,6 +1,6 @@
 ### Olá, sou Allan Miller 👋
-
-<h2> Minhas habilidades </h2><br>
+<br>
+<h2> Minhas habilidades </h2>
 <div style="display: inline_block">
   <img align="center" alt="Allan-Js-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allan-Js-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
