@@ -1,7 +1,7 @@
 ### Olá, sou Allan Miller 👋
 <h3>Sobre mim</h3>
 <div style="display: space_around"> 
-   <div>
+   <div style="display: inline_block">
       - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
       - 🎓 Estudando **Sistemas de informações** no <a href="link da sua faculdade">Universidade de Pernambuco</a>.
       - 🌱 &nbsp; Aprendendo mais sobre **Python, Flutter, html/css, java**.
