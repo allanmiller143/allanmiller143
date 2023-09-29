@@ -31,6 +31,12 @@ Olá, sou Allan Miller 👋
 </div>
 
 ![Snake animation](https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake-dark.svg)
-[![allanmiller143](https://github-readme-stats.vercel.app/api?username=allanmiller143&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![allanmiller143](https://github-readme-stats.vercel.app/api/top-langs/?username=allanmiller143&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![allanmiller143](https://github-readme-stats.vercel.app/api?username=allanmiller143&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![allanmiller143](https://github-readme-stats.vercel.app/api/top-langs/?username=allanmiller143&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
